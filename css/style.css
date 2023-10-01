@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.task-card {
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  padding: 15px;
+  border-radius: 5px;
+}
+.task-cardss {
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  height: 50px;
+  padding: 15px;
+  border-radius: 5px;
+}
+.cont {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url('/image/top-view-desk-concept-with-coffee.jpg');
+  background-size: cover;
+  background-position: center center;
+  width: 100vw;
+  height: 100vh;
+}
+.container h1,
+h3,
+h2 {
+  color: black;
+}
+.hero-section {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url('/image/top-view-desk-concept-with-mock-up-smarpthone.jpg');
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+  padding: 150px 0;
+  text-align: center;
+  height: 100vh;
+}
+.hero-section h1 {
+  font-size: 6em;
+  margin-bottom: 20px;
+  color: aqua;
+}
+.cta-button {
+  font-size: 1.2em;
+}
